@@ -1,4 +1,4 @@
-<h1>Hi, I'm Jeremy!  <a href="https://www.linkedin.com/in/joshmadakor/">IT Professional</a>
+<h1>Hi, I'm Jeremy, an <a href="https://www.linkedin.com/in/joshmadakor/">IT Professional</a>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
@@ -11,7 +11,7 @@
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
 
 <h2> 🎓 Certifications </h2>
-
+<li> Course Careers
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
