@@ -1,4 +1,4 @@
-<h1>Hi, I'm Jeremy, an aspiring <a href="https://www.linkedin.com/in/jeremy-mason-a570a4ba/">IT Professional</a>
+<h1>Hi, I'm Jeremy, an aspiring IT professional.</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
